@@ -1,0 +1,20 @@
+/*styles.css */
+
+p {
+    color: rgb(68, 68, 68);
+    font-family: sans-serif;
+}
+
+h1 {
+    color: rgb(68, 68, 68);
+    background-color: yellowgreen;
+}
+
+h2 {
+    color: rgb(68, 68, 68);
+}
+
+li {
+    color: rgb(68, 68, 68);
+    font-family: sans-serif;
+}
